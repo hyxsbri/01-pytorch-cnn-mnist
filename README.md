@@ -5,5 +5,5 @@
 ## 해결 과정 중 특정 구현하는 부분에 있어 어렵거나 막히는 부분이 있을 시,
 ## 외부 코드를 레퍼런스 하며 직접 짠 코드와 비교하는 방식으로 본 작업을 수행했습니다.
 ##
-### #cnn #programming #pytorch #mnist_classifier #anaconda #pycharm
+### #deep_learning #cnn #programming #pytorch #mnist_classifier #anaconda #pycharm
 ##
