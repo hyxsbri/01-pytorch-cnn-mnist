@@ -38,7 +38,7 @@
 
 '''python
 git clone https://github.com/hyxsbri/pytorch-cnn-mnist-classifier.git
-
+'''
 
 2. 저장소 디렉토리로 이동합니다:
 
