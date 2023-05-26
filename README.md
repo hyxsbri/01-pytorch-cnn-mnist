@@ -63,8 +63,8 @@ python eval.py
 python train.py
 ```
 
-이 스크립트는 MNIST 데이터셋을 기반으로 모델을 훈련하고, 훈련된 모델 파라미터, 훈련 로그, 체크포인트 등과 같은 관련된 출력물들을 저장합니다.
+이 스크립트는 MNIST 데이터셋을 기반으로 모델을 훈련하고 훈련된 모델 파라미터, 훈련 로그, 체크포인트 등과 같은 관련된 출력물들을 저장합니다.
 
 ## 결론
 
-이 저장소는 MNIST 데이터셋에 대한 PyTorch CNN 분류기의 구현을 보여줍니다. `img`, `model_checkpoint`, `tensorboard_log` 폴더, 그리고 `eval.py`, `train.py` 스크립트를 포함하여 딥러닝 개념, 모델 훈련, 평가 기법 등에 대한 저의 기술과 이해력을 보여주고자 합니다.
+이 저장소는 MNIST 데이터셋에 대한 PyTorch CNN 분류기의 구현을 보여줍니다. `img`, `model_checkpoint`, `tensorboard_log` 폴더, 그리고 `eval.py`, `train.py` 스크립트를 포함하여 딥러닝 개념, 모델 훈련, 평가 기법 등에 대한 저의 기술과 이해력을 보여주고자 본 작업을 수행했습니다.
