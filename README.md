@@ -1,4 +1,4 @@
-# Pytorch 프레임워크를 활용한 MNIST 분류기 모델링
+# Pytorch를 활용한 MNIST 분류기 모델링
 ## 2022.09.13 ~ 2022.09.30
 
 ![MNIST](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
