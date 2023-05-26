@@ -1,10 +1,11 @@
 # Pytorch 프레임워크를 활용한 MNIST 분류기 모델링
+## 2022.09.13 ~ 2022.09.30
 
 ![MNIST](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
 ## 소개
 
-해당 저장소는 저의 취업 준비를 위한 포트폴리오로서, MNIST 데이터셋을 활용한 PyTorch CNN (Convolutional Neural Network) 분류기의 구현을 담고 있습니다. 아래에는 저장소 내의 각 구성 요소에 대한 상세한 설명이 포함되어 있어, 면접관 분들께서 좋게 보시도록 구성했습니다.
+MNIST 데이터셋을 활용한 PyTorch CNN (Convolutional Neural Network) 분류기의 구현을 담고 있습니다.
 
 ## 저장소 내용
 
