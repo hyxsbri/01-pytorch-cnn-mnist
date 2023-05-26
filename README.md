@@ -67,4 +67,4 @@ python train.py
 
 ## 결론
 
-이 저장소는 MNIST 데이터셋에 대한 PyTorch CNN 분류기의 구현을 보여줍니다. `img`, `model_checkpoint`, `tensorboard_log` 폴더, 그리고 `eval.py`, `train.py` 스크립트를 포함하여 딥러닝 개념, 모델 훈련, 평가 기법 등에 대한 저의 기술과 이해력을 보여주고자 본 작업을 수행했습니다.
+이 저장소는 MNIST 데이터셋에 대한 PyTorch CNN 분류기의 구현을 보여줍니다. `img`, `model_checkpoint`, `tensorboard_log` 폴더, 그리고 `eval.py`, `train.py` 스크립트를 포함하여 딥러닝 개념, 모델 훈련, 평가 기법 등에 대한 저의 기술과 이해력을 보여주고자 해당 작업을 수행했습니다.
