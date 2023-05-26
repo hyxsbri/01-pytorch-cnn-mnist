@@ -36,7 +36,7 @@
 
 1. 저장소를 로컬 머신에 클론합니다:
 
-'git clone https://github.com/hyxsbri/pytorch-cnn-mnist-classifier.git
+' git clone https://github.com/hyxsbri/pytorch-cnn-mnist-classifier.git
 
 
 2. 저장소 디렉토리로 이동합니다:
