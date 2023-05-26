@@ -5,7 +5,7 @@
 
 ## 소개
 
-MNIST 데이터셋을 활용한 PyTorch CNN(Convolutional Neural Network) 분류기의 구현을 담고 있습니다.
+MNIST 데이터셋을 활용한 PyTorch CNN(Convolutional Neural Network) 분류기의 구현 작업 과정 및 결과물입니다.
 
 ## 저장소 내용
 
