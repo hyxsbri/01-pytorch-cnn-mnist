@@ -36,28 +36,33 @@
 
 1. 저장소를 로컬 머신에 클론합니다:
 
-''' python
+```python
 git clone https://github.com/hyxsbri/pytorch-cnn-mnist-classifier.git
-'''
+```
 
 2. 저장소 디렉토리로 이동합니다:
 
-'cd pytorch-cnn-mnist-classifier
-
+```python
+cd pytorch-cnn-mnist-classifier
+```
 
 3. 필요한 종속성을 설치합니다:
 
-'pip install -r requirements.txt
+```python
+pip install -r requirements.txt
+```
 
 4. **평가**: `eval.py` 스크립트를 실행하여 훈련된 모델을 평가합니다:
 
-'python eval.py
-
+```python
+python eval.py
+```
 
 5. **훈련**: `train.py` 스크립트를 실행하여 CNN 모델을 훈련합니다:
 
+```python
 python train.py
-
+```
 
 이 스크립트는 MNIST 데이터셋을 기반으로 모델을 훈련하고, 훈련된 모델 파라미터, 훈련 로그, 체크포인트 등과 같은 관련된 출력물들을 저장합니다.
 
