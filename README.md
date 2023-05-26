@@ -36,7 +36,7 @@
 
 1. 저장소를 로컬 머신에 클론합니다:
 
-'''python
+''' python
 git clone https://github.com/hyxsbri/pytorch-cnn-mnist-classifier.git
 '''
 
