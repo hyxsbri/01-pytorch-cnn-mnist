@@ -5,13 +5,13 @@
 
 ## 소개
 
-MNIST 데이터셋을 활용한 PyTorch CNN (Convolutional Neural Network) 분류기의 구현을 담고 있습니다.
+MNIST 데이터셋을 활용한 PyTorch CNN(Convolutional Neural Network) 분류기의 구현을 담고 있습니다.
 
 ## 저장소 내용
 
 ### 1. `img` 폴더
 
-`img` 폴더는 프로젝트와 관련된 이미지와 시각적 자료들이 저장되어 있습니다. 이러한 이미지들은 문서 작성, 시각화, 또는 다른 관련 용도로 사용될 수 있습니다.
+`img` 폴더는 프로젝트와 관련된 이미지와 시각적 자료들이 저장되어 있습니다. 이러한 이미지들은 문서 작성, 시각화 또는 다른 관련 용도로 사용될 수 있습니다.
 
 ### 2. `model_checkpoint` 폴더
 
@@ -67,4 +67,4 @@ python train.py
 
 ## 결론
 
-이 저장소는 MNIST 데이터셋에 대한 PyTorch CNN 분류기의 구현을 보여줍니다. `img`, `model_checkpoint`, `tensorboard_log` 폴더, 그리고 `eval.py`, `train.py` 스크립트를 포함하여, 딥러닝 개념, 모델 훈련, 평가 기법 등에 대한 저의 기술과 이해력을 보여주고자 합니다. 저장소를 자유롭게 탐색하고 코드를 살펴보며, 피드백이나 제안 사항이 있다면 언제든지 이슈를 열어 주시기 바랍니다.
+이 저장소는 MNIST 데이터셋에 대한 PyTorch CNN 분류기의 구현을 보여줍니다. `img`, `model_checkpoint`, `tensorboard_log` 폴더, 그리고 `eval.py`, `train.py` 스크립트를 포함하여 딥러닝 개념, 모델 훈련, 평가 기법 등에 대한 저의 기술과 이해력을 보여주고자 합니다.
