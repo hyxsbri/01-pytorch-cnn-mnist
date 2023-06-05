@@ -11,7 +11,9 @@ MNIST 데이터셋을 활용한 PyTorch CNN(Convolutional Neural Network) 분류
 
 ### 1. `img` 폴더
 
-`img` 폴더는 프로젝트와 관련된 이미지와 시각적 자료들이 저장되어 있습니다. 이러한 이미지들은 문서 작성, 시각화 또는 다른 관련 용도로 사용될 수 있습니다.
+* `img` 폴더에 CNN 관련 논문에 제시된 네트워크 이미지입니다. 해당 이미지를 참조하며 모델링 작업을 수행했습니다.
+* 5*5 Conv. | 2*2 Max Pooling | ReLU | 5*5 Conv. | 0.5 Dropout | 2*2 Max Pooling | ReLU
+
 
 ### 2. `model_checkpoint` 폴더
 
