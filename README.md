@@ -11,7 +11,7 @@ MNIST 데이터셋을 활용한 PyTorch CNN(Convolutional Neural Network) 분류
 
 ### 1. `img` 폴더
 
-* `img` 폴더에 CNN 관련 논문에 제시된 네트워크 이미지입니다. 해당 이미지를 참조하며 모델링 작업을 수행했습니다.
+* `img` 폴더에 CNN 관련 논문에 제시된 네트워크 이미지입니다(상위 이미지). 해당 이미지를 참조하며 모델링 작업을 수행했습니다.
 * 5x5 Conv. | 2x2 Max Pooling | ReLU | 5x5 Conv. | 0.5 Dropout | 2x2 Max Pooling | ReLU
 
 
