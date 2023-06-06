@@ -1,7 +1,7 @@
 # Pytorch를 활용한 MNIST 분류기 모델링
 ## 2022.09.13 ~ 2022.09.30
 
-![MNIST](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
+![MNIST](https://github.com/hyxsbri/pytorch-cnn-mnist-classifier/blob/main/img/network.png?raw=true)
 
 ## 소개
 
