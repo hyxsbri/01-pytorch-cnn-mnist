@@ -1,4 +1,4 @@
-# Pytorch를 활용한 MNIST 분류기 모델링
+# PyTorch를 활용한 MNIST Classifier 모델링
 
 ![MNIST](https://github.com/hyxsbri/pytorch-cnn-mnist-classifier/blob/main/img/network.png?raw=true)
 
